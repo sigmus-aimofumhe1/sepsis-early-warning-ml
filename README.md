@@ -1,6 +1,6 @@
 # Autonomous Clinical Decision Support System: Predictive Analytics for Early Sepsis Warning
 
-## Executive Framework & Strategic National Importance (EB-2 NIW)
+## Executive Framework & Strategic National Importance
 Sepsis is a catastrophic systemic response to infection that stands as one of the leading causes of mortality in modern American clinical medicine. This project engineers a scalable digital health infrastructure designed to address critical operational and economic strain vectors across the United States healthcare sector:
 
 * **The Mortality Crisis:** Sepsis contributes to **one-third (approx. 350,000 adult deaths annually) of all U.S. hospital fatalities**, outstripping many other acute conditions combined.
