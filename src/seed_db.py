@@ -100,7 +100,7 @@ def seed_data(conn):
             records_buffer = []
             print(f" Processed tracking: {idx + 1}/{total_files} patient files securely migrated.")
 
-    print("✨ Database completely seeded and optimized!")
+    print("Database completely seeded and optimized!")
 
 if __name__ == "__main__":
     # Make sure old broken database is dropped before starting
